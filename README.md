@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Abhijit Lakshmandass
 
-🎓 I'm a B.Tech Computer Science student at Manipal Academy of Higher Education, Dubai (2022–2026), passionate about **Cybersecurity**, **AI-driven threat detection**, and **software development**. With a strong foundation in database management, ethical hacking, and full-stack web development, I aim to build secure, scalable, and impactful technological solutions.
+🎓 Aspiring Cybersecurity Student | B.Tech Computer Science I'm deeply passionate about Cybersecurity, AI-driven threat detection, and software development. With a strong foundation in database management, ethical hacking, and full-stack web development, I strive to build secure, scalable, and impactful technological solutions that address modern security challenges
 
 ## 💼 Projects
 - 🔐 **AI-Powered Phishing Website Detector**  
@@ -12,8 +12,6 @@
 - 🌦️ **WeatherWise: Web-Based Weather App**  
   Integrated with public APIs, built with responsive UI and real-time data optimization.
 
-- 💸 **Money Transfer Visualizer (Hackathon Project)**  
-  Created during Diaminte V2 Hackathon using Go, LevelDB, and HTML/CSS for secure P2P money transfer with ledger visualization.
 
 ## 🧠 Skills
 - **Programming:** Python, Java, C/C++, JavaScript, Kotlin, C#, Linux
